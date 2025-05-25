@@ -2,7 +2,7 @@
 
 namespace TechLibrary.Api.Controllers;
 
-[Route([controller])]
+[Route("[controller]")]
 [ApiController]
 public class UsersController : ControllerBase
 {
