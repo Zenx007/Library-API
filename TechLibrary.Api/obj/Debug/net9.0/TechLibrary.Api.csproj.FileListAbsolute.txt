@@ -35,3 +35,4 @@ C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\obj\Debug\net9.0\ref
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\obj\Debug\net9.0\TechLibrary.Api.sourcelink.json
