@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "aziRTvYIG1Q=",
+  "dgSpecHash": "4DFNqnj2BLg=",
   "success": true,
   "projectFilePath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\TechLibrary.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zenxp\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512",
     "C:\\Users\\zenxp\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.5\\microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
     "C:\\Users\\zenxp\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\zenxp\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",

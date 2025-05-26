@@ -5,7 +5,7 @@ namespace TechLibrary.Api.UseCases.Users.Register;
 
 public class RegisterUserUseCase
 {
-    public ResponseRegisterUserJson Execute(RequestUserJson)
+    public ResponseRegisterUserJson Execute(RequestUserJson request)
     {
         return new ResponseRegisterUserJson
         {

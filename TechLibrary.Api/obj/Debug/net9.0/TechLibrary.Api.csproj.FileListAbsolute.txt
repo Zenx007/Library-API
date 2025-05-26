@@ -38,3 +38,4 @@ C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\obj\Debug\net9.0\Tec
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\obj\Debug\net9.0\ref\TechLibrary.Api.dll
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communitcation.dll
 C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\TechLibrary.Communitcation.pdb
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Api\bin\Debug\net9.0\FluentValidation.dll
