@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TechLibrary.Api.UseCases.Users.Register;
 using TechLibrary.Communitcation.Requests;
 using TechLibrary.Communitcation.Responses;
 
@@ -13,7 +14,13 @@ public class UsersController : ControllerBase
     [ProducesResponseType(typeof(ResponseRegisterUserJson), 201)]
     public IActionResult Create (RequestUserJson request)
     {
-        return Created();
+
+        var useCase = new RegisterUserUseCase();
+
+       var response = useCase.Execute(request);
+
+
+        return Created(string.Empty, response);
     }
     
 }
