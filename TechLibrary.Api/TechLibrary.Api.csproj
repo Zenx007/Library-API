@@ -14,6 +14,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TechLibrary.Communitcation\TechLibrary.Communitcation.csproj" />
+    <ProjectReference Include="..\TechLibrary.Exception\TechLibrary.Exception.csproj" />
   </ItemGroup>
 
 </Project>

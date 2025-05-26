@@ -133,6 +133,16 @@
         "runtime": {
           "bin/placeholder/TechLibrary.Communitcation.dll": {}
         }
+      },
+      "TechLibrary.Exception/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TechLibrary.Exception.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechLibrary.Exception.dll": {}
+        }
       }
     }
   },
@@ -495,6 +505,11 @@
       "type": "project",
       "path": "../TechLibrary.Communitcation/TechLibrary.Communitcation.csproj",
       "msbuildProject": "../TechLibrary.Communitcation/TechLibrary.Communitcation.csproj"
+    },
+    "TechLibrary.Exception/1.0.0": {
+      "type": "project",
+      "path": "../TechLibrary.Exception/TechLibrary.Exception.csproj",
+      "msbuildProject": "../TechLibrary.Exception/TechLibrary.Exception.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -502,7 +517,8 @@
       "FluentValidation >= 12.0.0",
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
       "Swashbuckle.AspNetCore >= 8.1.1",
-      "TechLibrary.Communitcation >= 1.0.0"
+      "TechLibrary.Communitcation >= 1.0.0",
+      "TechLibrary.Exception >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -539,6 +555,9 @@
           "projectReferences": {
             "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj": {
               "projectPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj"
+            },
+            "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\TechLibrary.Exception.csproj": {
+              "projectPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\TechLibrary.Exception.csproj"
             }
           }
         }
