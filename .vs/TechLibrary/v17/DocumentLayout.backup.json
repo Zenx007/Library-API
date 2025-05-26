@@ -7,16 +7,24 @@
       "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.communitcation\\responses\\responseregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|solutionrelative:techlibrary.communitcation\\responses\\responseregisteruserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.communitcation\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|solutionrelative:techlibrary.communitcation\\requests\\requestuserjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.communitcation\\techlibrary.communitcation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6D9BD365-436E-4CD1-86C5-6FFDCF45BBBD}|TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj|solutionrelative:techlibrary.communitcation\\techlibrary.communitcation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.api\\techlibrary.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\techlibrary.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{88853B83-AC83-4010-B2B7-35F2013C330E}|TechLibrary.Api\\TechLibrary.Api.csproj|solutionrelative:techlibrary.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,19 +34,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TechLibrary.Api",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.csproj",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\TechLibrary.Api.csproj",
-              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.csproj",
+              "DocumentIndex": 3,
+              "Title": "TechLibrary.Communitcation",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
+              "RelativeDocumentMoniker": "TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
+              "RelativeToolTip": "TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-25T02:12:22.79Z",
+              "WhenOpened": "2025-05-25T22:11:29.33Z",
               "EditorCaption": ""
             },
             {
@@ -47,40 +55,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Controllers\\UsersController.cs*",
-              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ResponseRegisterUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\Responses\\ResponseRegisterUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communitcation\\Responses\\ResponseRegisterUserJson.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\Responses\\ResponseRegisterUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communitcation\\Responses\\ResponseRegisterUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T02:57:53.334Z",
+              "WhenOpened": "2025-05-25T22:26:49.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TechLibrary.Api.http",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\TechLibrary.Api.http",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\TechLibrary.Api.http",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\TechLibrary.Api.http",
+              "RelativeToolTip": "TechLibrary.Api\\TechLibrary.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-25T22:11:00.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Properties\\launchSettings.json",
-              "RelativeToolTip": "TechLibrary.Api\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T02:53:21.662Z"
+              "Title": "RequestUserJson.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\Requests\\RequestUserJson.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Communitcation\\Requests\\RequestUserJson.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\Requests\\RequestUserJson.cs",
+              "RelativeToolTip": "TechLibrary.Communitcation\\Requests\\RequestUserJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T22:06:34.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Program.cs",
-              "RelativeDocumentMoniker": "TechLibrary.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Program.cs",
-              "RelativeToolTip": "TechLibrary.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAXAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "TechLibrary.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T02:51:24.471Z"
+              "WhenOpened": "2025-05-25T22:01:15.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TechLibrary.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\appsettings.Development.json",
+              "RelativeToolTip": "TechLibrary.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-25T22:01:15.108Z",
+              "EditorCaption": ""
             }
           ]
         }

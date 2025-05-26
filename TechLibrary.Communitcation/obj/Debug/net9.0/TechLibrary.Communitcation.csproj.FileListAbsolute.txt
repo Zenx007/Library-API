@@ -1,0 +1,12 @@
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\bin\Debug\net9.0\TechLibrary.Communitcation.deps.json
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\bin\Debug\net9.0\TechLibrary.Communitcation.dll
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\bin\Debug\net9.0\TechLibrary.Communitcation.pdb
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.AssemblyInfoInputs.cache
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.AssemblyInfo.cs
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.csproj.CoreCompileInputs.cache
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.sourcelink.json
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.dll
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\refint\TechLibrary.Communitcation.dll
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\TechLibrary.Communitcation.pdb
+C:\Users\zenxp\source\repos\TechLibrary.Api\TechLibrary.Communitcation\obj\Debug\net9.0\ref\TechLibrary.Communitcation.dll

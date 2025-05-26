@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {}
+    "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communication\\TechLibrary.Communication.csproj": {
+    "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
-        "projectName": "TechLibrary.Communication",
-        "projectPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communication\\TechLibrary.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
+        "projectName": "TechLibrary.Communitcation",
+        "projectPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj",
         "packagesPath": "C:\\Users\\zenxp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communication\\obj\\",
+        "outputPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

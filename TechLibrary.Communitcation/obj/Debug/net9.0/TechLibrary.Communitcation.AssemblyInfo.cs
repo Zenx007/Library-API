@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("TechLibrary.Communication")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TechLibrary.Communitcation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c02c4369dbac549d3d0d63e886f57f03244f9d1d")]
-[assembly: System.Reflection.AssemblyProductAttribute("TechLibrary.Communication")]
-[assembly: System.Reflection.AssemblyTitleAttribute("TechLibrary.Communication")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7e4625765917bea319ac9d4a55c7c205b5ff59d")]
+[assembly: System.Reflection.AssemblyProductAttribute("TechLibrary.Communitcation")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TechLibrary.Communitcation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

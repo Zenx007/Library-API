@@ -110,6 +110,16 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "TechLibrary.Communitcation/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/TechLibrary.Communitcation.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TechLibrary.Communitcation.dll": {}
+        }
       }
     }
   },
@@ -452,12 +462,18 @@
         "swashbuckle.aspnetcore.swaggerui.8.1.1.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "TechLibrary.Communitcation/1.0.0": {
+      "type": "project",
+      "path": "../TechLibrary.Communitcation/TechLibrary.Communitcation.csproj",
+      "msbuildProject": "../TechLibrary.Communitcation/TechLibrary.Communitcation.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.5",
-      "Swashbuckle.AspNetCore >= 8.1.1"
+      "Swashbuckle.AspNetCore >= 8.1.1",
+      "TechLibrary.Communitcation >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -491,7 +507,11 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj": {
+              "projectPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Communitcation\\TechLibrary.Communitcation.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
