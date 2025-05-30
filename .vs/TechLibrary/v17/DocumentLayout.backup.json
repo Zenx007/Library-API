@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "TechLibrary.Exception\\TechLibraryException.cs",
               "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\TechLibraryException.cs",
               "RelativeToolTip": "TechLibrary.Exception\\TechLibraryException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T16:43:48.49Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:48:22.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:48:22.289Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:48:17.547Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-26T15:48:17.547Z"
             }
           ]
         }

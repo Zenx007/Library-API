@@ -1,10 +1,13 @@
 ﻿using TechLibrary.Communitcation.Requests;
 using TechLibrary.Communitcation.Responses;
+using TechLibrary.Exception;
 
 namespace TechLibrary.Api.UseCases.Users.Register;
 
 public class RegisterUserUseCase
 {
+    private readonly List<string> errorMessages;
+
     public ResponseRegisterUserJson Execute(RequestUserJson request)
     {
         Validate(request);
@@ -24,6 +27,6 @@ public class RegisterUserUseCase
           var errorMessages = result.Errors.Select(error => error.ErrorMessage).ToList();
         }
 
-        throw new Exception();
+        throw new ErrorOnValidationException(errorMessages);
     }
 }
