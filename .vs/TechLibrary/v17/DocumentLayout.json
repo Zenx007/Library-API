@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{073F440C-B006-42AF-BFC2-B2C712230BD1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{073F440C-B006-42AF-BFC2-B2C712230BD1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\erroronvalidationexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{073F440C-B006-42AF-BFC2-B2C712230BD1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|c:\\users\\zenxp\\source\\repos\\techlibrary.api\\techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{073F440C-B006-42AF-BFC2-B2C712230BD1}|TechLibrary.Exception\\TechLibrary.Exception.csproj|solutionrelative:techlibrary.exception\\techlibraryexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
@@ -35,31 +43,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ErrorOnValidationException.cs",
+              "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeDocumentMoniker": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "RelativeToolTip": "TechLibrary.Exception\\ErrorOnValidationException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:04:58.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "TechLibraryException.cs",
               "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\TechLibraryException.cs",
               "RelativeDocumentMoniker": "TechLibrary.Exception\\TechLibraryException.cs",
               "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Exception\\TechLibraryException.cs",
               "RelativeToolTip": "TechLibrary.Exception\\TechLibraryException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T16:43:48.49Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "RegisterUserUseCase.cs",
               "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "ToolTip": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
               "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserUseCase.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:48:22.289Z"
+              "WhenOpened": "2025-05-26T15:48:22.289Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RegisterUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\zenxp\\source\\repos\\TechLibrary.Api\\TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
               "RelativeDocumentMoniker": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
@@ -67,7 +89,8 @@
               "RelativeToolTip": "TechLibrary.Api\\UseCases\\Users\\Register\\RegisterUserValidator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:48:17.547Z"
+              "WhenOpened": "2025-05-26T15:48:17.547Z",
+              "EditorCaption": ""
             }
           ]
         }
