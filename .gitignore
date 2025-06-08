@@ -1,0 +1,30 @@
+# Arquivos de usuário e configurações específicas do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pasta de configurações do Visual Studio
+.vs/
+
+# Resultados da Compilação (Build)
+[Bb]in/
+[Oo]bj/
+
+# Arquivos gerados pelo Resharper (ferramenta popular)
+_ReSharper*/
+*.[Rr]esharper
+*.DotSettings.user
+
+# Pacotes NuGet (para estilos de projeto mais antigos)
+packages/
+*.nupkg
+
+# Arquivos de log e teste
+*.log
+*.tlog
+*.testresult
+
+# Outros arquivos de sistema e cache
+*~
+Thumbs.db
