@@ -25,8 +25,9 @@ public class RegisterUserUseCase
         if (result.IsValid == false)
         {
             var errorMessages = result.Errors.Select(error => error.ErrorMessage).ToList();
-        }
 
         throw new ErrorOnValidationException(errorMessages);
+        }
+
     }
 }
