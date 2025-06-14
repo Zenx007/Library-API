@@ -3,7 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using TechLibrary.Api.Infrastructure;
+using TechLibrary.Api.Infrastructure.DataAccess;
 
 #nullable disable
 

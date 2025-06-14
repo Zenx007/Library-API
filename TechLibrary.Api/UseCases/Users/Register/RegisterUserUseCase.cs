@@ -1,5 +1,6 @@
 ﻿using TechLibrary.Api.Domain.Entities;
-using TechLibrary.Api.Infrastructure;
+using TechLibrary.Api.Infrastructure.Cryptography;
+using TechLibrary.Api.Infrastructure.DataAccess;
 using TechLibrary.Communitcation.Requests;
 using TechLibrary.Communitcation.Responses;
 using TechLibrary.Exception;
@@ -14,20 +15,23 @@ public class RegisterUserUseCase
     {
         Validate(request);
 
+        var cryptography = new BCryptAlgorithm();
+
         var entity = new User
         {
             Email = request.Email,
             Name = request.Name,
-            Password = request.Password,
+            Password = cryptography.HashPassword(request.Password),
         };
 
         var dbContext = new TechLibraryDbContext();
 
         dbContext.Users.Add(entity);
+        dbContext.SaveChanges();
 
         return new ResponseRegisterUserJson
         {
-
+            Name = entity.Name,    
         };
     }
     private void Validate(RequestUserJson request)
