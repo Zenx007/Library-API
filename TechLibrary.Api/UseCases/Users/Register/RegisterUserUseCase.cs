@@ -2,6 +2,7 @@
 using TechLibrary.Api.Domain.Entities;
 using TechLibrary.Api.Infrastructure.Cryptography;
 using TechLibrary.Api.Infrastructure.DataAccess;
+using TechLibrary.Api.Infrastructure.Security.Tokens.Access;
 using TechLibrary.Communitcation.Requests;
 using TechLibrary.Communitcation.Responses;
 using TechLibrary.Exception;
@@ -30,10 +31,12 @@ public class RegisterUserUseCase
         dbContext.Users.Add(entity);
         dbContext.SaveChanges();
 
+        JwtTokenGenerator tokenGenerator = new JwtTokenGenerator();
+
         return new ResponseRegisterUserJson
         {
             Name = entity.Name,
-            AcessToken = 
+            AcessToken = tokenGenerator.Generate(entity)
         };
     }
     private void Validate(RequestUserJson request, TechLibraryDbContext dbContext)

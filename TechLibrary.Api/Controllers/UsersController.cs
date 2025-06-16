@@ -16,7 +16,7 @@ public class UsersController : ControllerBase
     [ProducesResponseType(typeof(ResponseRegisterUserJson), StatusCodes.Status201Created)]
     [ProducesResponseType(typeof(ResponseErrorMessagesJson), StatusCodes.Status400BadRequest)]
     public IActionResult Register(RequestUserJson request)
-    {
+     {
         try
         {
             var useCase = new RegisterUserUseCase();
