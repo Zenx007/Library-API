@@ -1,4 +1,6 @@
-﻿namespace TechLibrary.Api.Infrastructure.Cryptography;
+﻿using TechLibrary.Api.Domain.Entities;
+
+namespace TechLibrary.Api.Infrastructure.Security.Cryptography;
 
 public class BCryptAlgorithm
 {
