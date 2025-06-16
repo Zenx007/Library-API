@@ -32,7 +32,8 @@ public class RegisterUserUseCase
 
         return new ResponseRegisterUserJson
         {
-            Name = entity.Name,    
+            Name = entity.Name,
+            AcessToken = 
         };
     }
     private void Validate(RequestUserJson request, TechLibraryDbContext dbContext)
