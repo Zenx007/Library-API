@@ -26,4 +26,8 @@
     <ProjectReference Include="..\TechLibrary.Exception\TechLibrary.Exception.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UseCases\Login\DoLogin\" />
+  </ItemGroup>
+
 </Project>
