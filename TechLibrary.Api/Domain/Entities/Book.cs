@@ -1,6 +1,6 @@
 ﻿namespace TechLibrary.Api.Domain.Entities;
 
-public class Books
+public class Book
 {
     public Guid Id { get; set; } = Guid.NewGuid();
     public string Title { get; set; } = string.Empty;

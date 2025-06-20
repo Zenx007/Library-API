@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TechLibrary.Api.Infrastructure.DataAccess;
 
@@ -10,9 +11,11 @@ using TechLibrary.Api.Infrastructure.DataAccess;
 namespace TechLibrary.Api.Migrations
 {
     [DbContext(typeof(TechLibraryDbContext))]
-    partial class TechLibraryDbContextModelSnapshot : ModelSnapshot
+    [Migration("20250620003121_Books")]
+    partial class Books
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.6");
