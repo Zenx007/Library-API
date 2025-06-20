@@ -3,5 +3,5 @@
 public class RequestFilterBooksJson
 {
     public int PageNumber { get; set; }
-    public string? title { get; set; }
+    public string? Title { get; set; }
 }
