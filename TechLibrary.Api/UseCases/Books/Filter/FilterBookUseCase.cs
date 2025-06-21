@@ -13,8 +13,8 @@ public class FilterBookUseCase
 
         var query = dbContext.Books.AsQueryable();
 
-        if (string.IsNullOrWhiteSpace(request.title) == false)
-            query = query.Where(book => book.Title.Contains(request.title));
+        if (string.IsNullOrWhiteSpace(request.Title) == false)
+            query = query.Where(book => book.Title.Contains(request.Title));
 
         var books = query
             .OrderBy(book => book.Title).ThenBy(book => book.Author)
@@ -24,10 +24,10 @@ public class FilterBookUseCase
 
         var totalCount = 0;
 
-        if (string.IsNullOrWhiteSpace(request.title))
+        if (string.IsNullOrWhiteSpace(request.Title))
             totalCount = dbContext.Books.Count();
         else
-            totalCount = dbContext.Books.Count(books => books.Title.Contains(request.title));
+            totalCount = dbContext.Books.Count(books => books.Title.Contains(request.Title));
 
             return new ResponseBooksJson
             {
