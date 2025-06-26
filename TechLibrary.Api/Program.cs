@@ -1,6 +1,9 @@
+using System.Text;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using TechLibrary.Api.Filters;
+
+const string AUTHENTICATION_TYPE = "Bearer"; 
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -44,3 +47,12 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
+
+SymmetricSecurityKey SecurityKey()
+{
+    var signinKey = "wMyJ530ueaBBqRksp8rpLQnzIafYZHUa";
+
+    var symmetricKey = Encoding.UTF8.GetBytes(signinKey);
+
+    return new SymmetricSecurityKey(symmetricKey);
+}
