@@ -1,4 +1,5 @@
-﻿using TechLibrary.Api.Domain.Entities;
+﻿using System.IdentityModel.Tokens.Jwt;
+using TechLibrary.Api.Domain.Entities;
 using TechLibrary.Api.Infrastructure.DataAccess;
 
 namespace TechLibrary.Api.Service.LoggedUser;
@@ -12,12 +13,20 @@ public class LoggedUserService
         _httpContext = httpContext;
     }
 
-    public User User()
+    public User User(TechLibraryDbContext dbContext)
     {
         var authentication = _httpContext.Request.Headers.Authorization.ToString();
 
         var token = authentication["Bearer ".Length..].Trim();
 
-        var dbContext = new TechLibraryDbContext();
+        var tokenHandler = new JwtSecurityTokenHandler();
+
+        var jwtSecurityToken = tokenHandler.ReadJwtToken(token);
+
+        var identifier = jwtSecurityToken.Claims.First(claim => claim.Type == JwtRegisteredClaimNames.Sub).Value;
+
+        var userId = Guid.Parse(identifier);
+
+        return dbContext.Users.First(user => user.Id == userId);
     }
 }
