@@ -9,6 +9,8 @@ public class RegisterBookCheckoutUseCase
     public void Execute (Guid bookId)
     {
         var dbContext = new TechLibraryDbContext();
+        
+        Validate(dbContext, bookId);
 
         var entity = new Domain.Entities.Checkout()
         {
